@@ -6,5 +6,56 @@
     <description>Recent content on Samantha Lomuscio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://slomuscio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://slomuscio.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://slomuscio.github.io/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Outreach</title>
+      <link>http://slomuscio.github.io/outreach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://slomuscio.github.io/outreach/</guid>
+      <description>UVA StatLab Graduate Associate
+UVA DSBK
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://slomuscio.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://slomuscio.github.io/research/</guid>
+      <description>Current Work Probing the Nature of Black Holes with LISA  Graduate Research Project at UVA Department of Physics Charlottesville, VA. Advisor: Dr. Kent Yagi
+  Previous Work Understanding the Correlation between Solar Atmosphere Abundances and F10.7 Radio Emission
+ Graduate Research Project at UVA Department of Astronomy and NRAO in Charlottesville, VA. Advisor: Dr. Tim Bastian
+ Gamma-rays from Jupiter
+NSF Research Experience for Undergraduates at the American Museum of Natural History in New York, NY.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://slomuscio.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://slomuscio.github.io/teaching/</guid>
+      <description>University of Virginia Head Teaching Assistant
+ASTR 1290 - Black Holes
+ASTR 3420 - Life Beyond Earth
+ASTR 1210 - Introduction to the Sky and Solar System
+ASTR 3410 - Archaeo-Astronomy
+ASTR 2120 - Introduction to Astrophysics II (instructor of record)
+ASTR 2110 - Introduction to Astrophysics I
+New Jersey Institute of Technology PHYS 121 - Physics II Introductory Electromagnetism
+PHYS 111 - Physics I Introductory Electromagnetism
+Mathematics Tutor - Precalc.</description>
+    </item>
+    
   </channel>
 </rss>
