@@ -7,12 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://slomuscio.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title></title>
       <link>http://slomuscio.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://slomuscio.github.io/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>**I am a second year graduate student in the Physics Department at the University of Virginia. I work with Dr. Kent Yagi studying the nature of black holes and gravity.
+I received my Bachelor of Science in Applied Physics with a concentration in Astronomy from the New Jersey Institute of Technology in 2020, where I worked with Dr. Bin Chen to understand the mechanism behind particle acceleration in the solar atmosphere during flares and coronal mass ejections.</description>
     </item>
     
     <item>
@@ -32,15 +33,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://slomuscio.github.io/research/</guid>
-      <description>Current Work Probing the Nature of Black Holes with LISA
- Graduate Research, University of Virginia
-Advisor: Dr. Kent Yagi, University of Virginia Department of Physics
-  Previous Work Understanding the Correlation between Solar Atmosphere Abundances and F10.7 Radio Emission
- Graduate Research, University of Virginia
-Advisor: Dr. Tim Bastian, National Radio Astronomy Observatory
- Gamma-rays from Jupiter
- NSF REU, American Museum of Natural History
-Advisor: Dr. Tim Paglione, American Museum of Natural History</description>
+      <description>Current Work Regularizing Parameterized Kerr Spacetime  University of Virginia Department of Physics
+Graduate Researcher
+Advisor: Dr. Kent Yagi
+ The goal of this project is to refine a general, asymptotically flat parameterized-Kerr metric preserving Kerr symmetries. This parameterized spacetime exhibited pathologies, such as non-physical divergences, in some cases. By employing new expansions, we were able to remedy these unwanted behaviors. In addition, we test the parameterized metric’s ability to recover various beyond-General Relativity theories and quantified its ability to do so via a root-mean-square error analysis.</description>
     </item>
     
     <item>
@@ -56,9 +52,10 @@ ASTR 1210 - Introduction to the Sky and Solar System
 ASTR 3410 - Archaeo-Astronomy
 ASTR 2120 - Introduction to Astrophysics II (instructor of record)
 ASTR 2110 - Introduction to Astrophysics I
-New Jersey Institute of Technology PHYS 121 - Physics II Introductory Electromagnetism
-PHYS 111 - Physics I Introductory Electromagnetism
-Mathematics Tutor - Precalc.</description>
+New Jersey Institute of Technology PHYS 121 - Physics II: Introductory Electromagnetism
+PHYS 111 - Physics I: Introductory Mechanics
+Mathematics Tutor
+ Precalculus Calculus I, II, and III Differential Equations Partial Differential Equations Statistics  </description>
     </item>
     
   </channel>
