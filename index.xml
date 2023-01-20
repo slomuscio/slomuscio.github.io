@@ -17,14 +17,14 @@ I received my Bachelor of Science in Applied Physics with a concentration in Ast
     </item>
     
     <item>
-      <title>Outreach</title>
-      <link>http://slomuscio.github.io/outreach/</link>
+      <title>CV and Resume</title>
+      <link>http://slomuscio.github.io/cv-and-resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://slomuscio.github.io/outreach/</guid>
-      <description>UVA StatLab Graduate Associate
-UVA DSBK
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>http://slomuscio.github.io/cv-and-resume/</guid>
+      <description>Curriculum Vitae Click here to view my full CV
+ Resume Click here to view my one-page Resume
+ </description>
     </item>
     
     <item>
@@ -36,7 +36,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       <description>Current Work Regularizing Parameterized Kerr Spacetime  University of Virginia Department of Physics
 Graduate Researcher
 Advisor: Dr. Kent Yagi
- The goal of this project is to refine a general, asymptotically flat parameterized-Kerr metric preserving Kerr symmetries. This parameterized spacetime exhibited pathologies, such as non-physical divergences, in some cases. By employing new expansions, we were able to remedy these unwanted behaviors. In addition, we test the parameterized metric’s ability to recover various beyond-General Relativity theories and quantified its ability to do so via a root-mean-square error analysis.</description>
+ The goal of this project is to refine a general, asymptotically flat parameterized-Kerr metric preserving Kerr symmetries. This parameterized spacetime exhibited pathologies, such as non-physical divergences, in some cases. By employing new expansions, I was able to remedy these unwanted behaviors. In addition, I test the parameterized metric’s ability to recover various beyond-General Relativity theories and quantify its ability to do so via a root-mean-square error analysis.</description>
+    </item>
+    
+    <item>
+      <title>StatLab</title>
+      <link>http://slomuscio.github.io/statlab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://slomuscio.github.io/statlab/</guid>
+      <description>As a Graduate StatLab Associate, I work with my colleagues to provide free statistical/data science resources to the UVA community and beyond. These include free articles, consultations, and workshops.
+Articles Specifically, I have written two articles. The first is Getting Started with the Kruskal-Wallis Test which outlines what the Kruskal-Wallis test is and walks the reader through how to do the test by hand and with Python. The second article is Logistic Regression Four Ways with Python which gives a quick overview of Logistic Regression and then walks the reader through performing the test four different ways with Python.</description>
     </item>
     
     <item>
