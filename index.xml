@@ -17,17 +17,6 @@ I received my Bachelor of Science in Applied Physics with a concentration in Ast
     </item>
     
     <item>
-      <title>CV and Resume</title>
-      <link>http://slomuscio.github.io/cv-and-resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://slomuscio.github.io/cv-and-resume/</guid>
-      <description>Curriculum Vitae Click here to view my full CV
- Resume Click here to view my one-page Resume
- </description>
-    </item>
-    
-    <item>
       <title>Research</title>
       <link>http://slomuscio.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -37,6 +26,16 @@ I received my Bachelor of Science in Applied Physics with a concentration in Ast
 Graduate Researcher
 Advisor: Dr. Kent Yagi
  The goal of this project is to refine a general, asymptotically flat parameterized-Kerr metric preserving Kerr symmetries. This parameterized spacetime exhibited pathologies, such as non-physical divergences, in some cases. By employing new expansions, I was able to remedy these unwanted behaviors. In addition, I test the parameterized metric’s ability to recover various beyond-General Relativity theories and quantify its ability to do so via a root-mean-square error analysis.</description>
+    </item>
+    
+    <item>
+      <title>Resume and CV</title>
+      <link>http://slomuscio.github.io/cv-and-resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://slomuscio.github.io/cv-and-resume/</guid>
+      <description>Resume Click here to view my one-page Resume
+ Curriculum Vitae Click here to view my full CV</description>
     </item>
     
     <item>
